@@ -148,4 +148,4 @@ def trim_title(title):
 if __name__ == '__main__':
     ml = '57275032'
     ml2 = '62944230'
-    MylistDL(ml)
+    MylistDL(ml, ml2)
